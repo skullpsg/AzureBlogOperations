@@ -23,6 +23,7 @@ In this project,I have  created Azure blog programatically in c#.And then read t
   There are two packages that you'll need to install to your project:
 
   Microsoft Azure Storage Client Library for .NET: This package provides programmatic access to data resources in your storage account.
+  
   Click here : https://www.nuget.org/packages/WindowsAzure.Storage/
   
   Microsoft Azure Configuration Manager library for .NET: This package provides a class for parsing a connection string from a configuration file, regardless of where your application is running.
